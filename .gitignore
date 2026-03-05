@@ -1,0 +1,54 @@
+# =====================
+# Maven / Java
+# =====================
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# =====================
+# IntelliJ IDEA
+# =====================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =====================
+# Eclipse (if used)
+# =====================
+.project
+.classpath
+.settings/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Allure Reports
+# =====================
+allure-results/
+allure-report/
+
+# =====================
+# Temporary files
+# =====================
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =====================
+# Environment / Secret files (optional)
+# =====================
+.env
